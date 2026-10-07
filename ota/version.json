@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.169",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.169.bin",
-    "size":  2425760,
-    "sha256":  "524de7836749010d48fcfa48df11009df904aadff8d5838e8bfc4f09ddc112d2",
-    "notes":  "v0.3.169 - istasyon detay ekraninda buyuk Turkce font"
+    "version":  "0.3.171",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.171.bin",
+    "size":  2436672,
+    "sha256":  "1b76bb2c20f2fe8aef91842b3ae6bce06e482f622264902034535060303117bb",
+    "notes":  "v0.3.171 - istasyon detay sekmeleri ve gorsel ozet"
 }
