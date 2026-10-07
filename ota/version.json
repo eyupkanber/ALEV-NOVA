@@ -1,7 +1,7 @@
 {
     "version":  "0.3.169",
-    "url":  "https://github.com/eyupkanber/ALEV-NOVA/releases/download/v0.3.169/ALEV_NOVA_v0.3.169.bin",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.169.bin",
     "size":  2425760,
-    "sha256":  "863bf14e0da3fde5bdb7348052acd50c0ed68d48116df82af2b7c6e18280eaa0",
+    "sha256":  "524de7836749010d48fcfa48df11009df904aadff8d5838e8bfc4f09ddc112d2",
     "notes":  "v0.3.169 - istasyon detay ekraninda buyuk Turkce font"
 }
