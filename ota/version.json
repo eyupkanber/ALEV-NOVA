@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.179",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.179.bin",
-    "size":  2438576,
-    "sha256":  "4603406e37e26b3aba4e0e45ea0cf13f04c1d83dfacb05f63e1f0b08b6415835",
-    "notes":  "v0.3.179 - tam genislik ayarlar menusu"
+    "version":  "0.3.187",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.187.bin",
+    "size":  2459024,
+    "sha256":  "166e4be380248c39bc85c77ab3caaa246f4eef966227881fb0917fe7901da35e",
+    "notes":  "v0.3.187 - 800x480 oyun menusu ve buyuk oyun alanlari"
 }
