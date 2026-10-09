@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.187",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.187.bin",
-    "size":  2459024,
-    "sha256":  "166e4be380248c39bc85c77ab3caaa246f4eef966227881fb0917fe7901da35e",
-    "notes":  "v0.3.187 - 800x480 oyun menusu ve buyuk oyun alanlari"
+    "version":  "0.3.197",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.197.bin",
+    "size":  2498336,
+    "sha256":  "342de199dbb0cba11ef9d40548ad65f1af1ac5db44db7aae94fd15a3f068c58c",
+    "notes":  "v0.3.197 - TA1GRH ozel sembol ve fotograf"
 }
