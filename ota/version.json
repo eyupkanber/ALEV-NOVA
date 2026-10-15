@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.197",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.197.bin",
-    "size":  2498336,
-    "sha256":  "342de199dbb0cba11ef9d40548ad65f1af1ac5db44db7aae94fd15a3f068c58c",
-    "notes":  "v0.3.197 - TA1GRH ozel sembol ve fotograf"
+    "version":  "0.3.210",
+    "url":  "https://github.com/eyupkanber/ALEV-NOVA/releases/download/v0.3.210/ALEV_NOVA_v0.3.210.bin",
+    "size":  2536000,
+    "sha256":  "ebad0c2ba8dfc5cdd0b35e6365ccfc8ac5d411da6728ba1a9331ff9ed1072c55",
+    "notes":  "v0.3.210 - Sihirbaz GPS yokken manuel konum ve Maidenhead"
 }
