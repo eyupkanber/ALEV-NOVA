@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.210",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.210.bin",
-    "size":  2536000,
-    "sha256":  "ebad0c2ba8dfc5cdd0b35e6365ccfc8ac5d411da6728ba1a9331ff9ed1072c55",
-    "notes":  "v0.3.210 - Sihirbaz GPS yokken manuel konum ve Maidenhead"
+    "version":  "0.3.211",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.211.bin",
+    "size":  2541280,
+    "sha256":  "d5b918b1055db49e3fb0c3abbea631eab923db548936bdbdbe27ec9fc744ad4e",
+    "notes":  "v0.3.211 - 3D LOS profili ve alcak DRON kamera"
 }
