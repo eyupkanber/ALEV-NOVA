@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.215",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.215.bin",
-    "size":  2586896,
-    "sha256":  "38c9862dec595b4353a1fd51f76754396271b46f0a0e6c7d808404a26c557b0e",
-    "notes":  "v0.3.215 - Sokoban Dort Birlestir Mini Sudoku"
+    "version":  "0.3.218",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.218.bin",
+    "size":  2594560,
+    "sha256":  "f58c3d2f5b24b4703cb50b9afc5c109d0fea0927bb32c507686fd246c6af3dd4",
+    "notes":  "v0.3.218 - Zaman damgali Morse seridi"
 }
