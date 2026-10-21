@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.218",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.218.bin",
-    "size":  2594560,
-    "sha256":  "f58c3d2f5b24b4703cb50b9afc5c109d0fea0927bb32c507686fd246c6af3dd4",
-    "notes":  "v0.3.218 - Zaman damgali Morse seridi"
+    "version":  "0.3.230",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.230.bin",
+    "size":  2679952,
+    "sha256":  "8b5f18ee53cba4a916900f38e6c79c8f5bbe739ff7705fd740ef86683ce4e1a7",
+    "notes":  "v0.3.230 - Kandilli resmi ve JSON API manuel deprem testi"
 }
