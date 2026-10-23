@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.230",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.230.bin",
-    "size":  2679952,
-    "sha256":  "8b5f18ee53cba4a916900f38e6c79c8f5bbe739ff7705fd740ef86683ce4e1a7",
-    "notes":  "v0.3.230 - Kandilli resmi ve JSON API manuel deprem testi"
+    "version":  "0.3.250",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.250.bin",
+    "size":  2702400,
+    "sha256":  "62ef8be76b92db0952ec96cf807707b20dc27b5e98c668237b8674ddb8cdfe64",
+    "notes":  "v0.3.250 - ust bilgi ve hava durumu tema renkleri, Turkce font"
 }
