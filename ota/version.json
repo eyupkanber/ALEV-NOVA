@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.279",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.279.bin",
-    "size":  2974336,
-    "sha256":  "6d816e948719526107af4ec66c0d21b0075aa85891e53047f2f255284b2c4883",
-    "notes":  "v0.3.279 - 16 SSID / eski SDK konfigurasyonu"
+    "version":  "0.3.281",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.281.bin",
+    "size":  2999488,
+    "sha256":  "ae38cf2233894d3351024c85dc5bc742beccfb176674710394a0d4b8dea0ed87",
+    "notes":  "v0.3.281 - SSID manuel APRS sembol kodu"
 }
