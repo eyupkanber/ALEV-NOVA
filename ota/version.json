@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.270",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.270.bin",
-    "size":  2921200,
-    "sha256":  "e7955d3cc0379a9eadacd89c85831b1be9cd5552880ba1c9edc033d13471de19",
-    "notes":  "v0.3.270 - temaya gore cift acilis gorseli"
+    "version":  "0.3.279",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.279.bin",
+    "size":  2974336,
+    "sha256":  "6d816e948719526107af4ec66c0d21b0075aa85891e53047f2f255284b2c4883",
+    "notes":  "v0.3.279 - 16 SSID / eski SDK konfigurasyonu"
 }
