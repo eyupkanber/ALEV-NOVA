@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.281",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.281.bin",
-    "size":  2999488,
-    "sha256":  "ae38cf2233894d3351024c85dc5bc742beccfb176674710394a0d4b8dea0ed87",
-    "notes":  "v0.3.281 - SSID manuel APRS sembol kodu"
+    "version":  "0.3.291",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.291.bin",
+    "size":  3290256,
+    "sha256":  "5fd085bed92e1d077ac99191fb4392331526845276edc32ce66a8aa9c5717cc4",
+    "notes":  "v0.3.291 - LittleFS devre disi, APRS arsivi SD, NVS ayni"
 }
