@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.294",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.294.bin",
-    "size":  3295136,
-    "sha256":  "e66abc20bacdef207a722ffbd3a834b096b5848315776374316b4e85ce9e76f1",
-    "notes":  "v0.3.294 - Ana istasyon APRS sembol seÃ§imi"
+    "version":  "0.3.296",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.296.bin",
+    "size":  3249296,
+    "sha256":  "3082b33d41f889113ba135c235ea4f2e36578a1deae60c474e89ebd0d077bcf3",
+    "notes":  "v0.3.296 - Kurulum sihirbazi dokunmatik duzeltmesi"
 }
