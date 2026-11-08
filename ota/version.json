@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.296",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.296.bin",
-    "size":  3249296,
-    "sha256":  "3082b33d41f889113ba135c235ea4f2e36578a1deae60c474e89ebd0d077bcf3",
-    "notes":  "v0.3.296 - Kurulum sihirbazi dokunmatik duzeltmesi"
+    "version":  "0.3.302",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.302.bin",
+    "size":  3335456,
+    "sha256":  "128bc5a0fc310aa2415c3a9a9f420e822a1c23d2381b692f325420ec1e81ba97",
+    "notes":  "v0.3.302 - acilista otomatik OTA, tus kilidi 5sn panel"
 }
