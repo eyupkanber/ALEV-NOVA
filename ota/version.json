@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.302",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.302.bin",
-    "size":  3335456,
-    "sha256":  "128bc5a0fc310aa2415c3a9a9f420e822a1c23d2381b692f325420ec1e81ba97",
-    "notes":  "v0.3.302 - acilista otomatik OTA, tus kilidi 5sn panel"
+    "version":  "0.3.349",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.349.bin",
+    "size":  3558928,
+    "sha256":  "7efe27eb01aa66c8cab2d3f517fda0122489f6f833ba59a6bb29de2e6342271e",
+    "notes":  "v0.3.349 - ESKI MENU ERISIMI KAPALI"
 }
