@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.350",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.350.bin",
-    "size":  3572848,
-    "sha256":  "43243cc27a346db79501c471031dd5e1512ae10d4c57872acb64649ec1eb7ddf",
-    "notes":  "v0.3.350 - APRS MONITORU"
+    "version":  "0.3.353",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.353.bin",
+    "size":  3574544,
+    "sha256":  "ae59e436055ec281b5765f0b1afbd058e8d08e1015120063f099aade0fe112ac",
+    "notes":  "v0.3.353 - TEST EKIBI"
 }
