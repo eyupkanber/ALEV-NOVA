@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.349",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.349.bin",
-    "size":  3558928,
-    "sha256":  "7efe27eb01aa66c8cab2d3f517fda0122489f6f833ba59a6bb29de2e6342271e",
-    "notes":  "v0.3.349 - ESKI MENU ERISIMI KAPALI"
+    "version":  "0.3.350",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.350.bin",
+    "size":  3572848,
+    "sha256":  "43243cc27a346db79501c471031dd5e1512ae10d4c57872acb64649ec1eb7ddf",
+    "notes":  "v0.3.350 - APRS MONITORU"
 }
