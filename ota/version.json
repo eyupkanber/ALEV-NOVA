@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.357",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.357.bin",
-    "size":  3581040,
-    "sha256":  "ac24d06b4ddcae8e3dd17c929be42506de117b7a4ffe8071336d3df64910f040",
-    "notes":  "v0.3.357 - ISTASYON DETAY FAVORI"
+    "version":  "0.3.362",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.362.bin",
+    "size":  3599744,
+    "sha256":  "8c47fb5e5e060d985c1c313f192a491ab040aa3fbf8e819441450e8a8e95c2a3",
+    "notes":  "Advanced Diagnostics"
 }
