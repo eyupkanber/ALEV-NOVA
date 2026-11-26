@@ -1,7 +1,7 @@
 {
-    "version":  "0.3.365",
-    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.365.bin",
-    "size":  3605648,
-    "sha256":  "98058a4a2976ddfe8534f1bd3f1a6e2505f960df560fcb2188aa1f7daad1bc6b",
-    "notes":  "v0.3.365 - CALLSIGN RE-ENROLLMENT"
+    "version":  "0.3.395",
+    "url":  "https://raw.githubusercontent.com/eyupkanber/ALEV-NOVA/ota-firmware/ALEV_NOVA_v0.3.395.bin",
+    "size":  3929088,
+    "sha256":  "e3b377ffad1849a4354ba53afbd9c3f942b470f6961fd14b49ae3fdd6119b413",
+    "notes":  "v0.3.395 - OTOMATIK BASLIK VE KOMPAKT HARITA TELIFI"
 }
